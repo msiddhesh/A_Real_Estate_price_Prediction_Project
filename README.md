@@ -3,7 +3,7 @@
 ➢Employed diverse modelling techniques, coupled with feature engineering and dimensionality reduction, ultimately achieving accuracy exceeding 80% with Linear regression.
 
 Steps :- 
-Data Cleaning:
+Data Cleaning
 
     Handled missing values (NA values).
     
@@ -15,7 +15,7 @@ Data Cleaning:
     
     Removed highly unmatched data points based on size and type.
 
-Model Building:
+Model Building
     
     Conducted a train-test split to evaluate model performance.
     
